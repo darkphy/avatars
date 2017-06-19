@@ -25,7 +25,7 @@ Goto your root project folder and create a virtual env
 
 # EXAMPLES
 
-![](http://i.imgur.com/X4T4r3E.jpg)
-![](http://i.imgur.com/DySqVam.jpg)
-
+![-id 18791212 -l 2](http://i.imgur.com/X4T4r3E.jpg)
+![-id 76491212 -l 4](http://i.imgur.com/DySqVam.jpg)
+![-id 18791212 -l 2](http://i.imgur.com/ExhF6s7.jpg)
 
