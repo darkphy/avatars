@@ -3,6 +3,7 @@ include/
 lib/
 lib64
 share/
+app/build/
 pyvenv.cfg
 pip-selfcheck.json
 Roboto-Bold.ttf
